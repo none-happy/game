@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<sysbutton>
+	<button>
+		<type>1</type>
+		<name>投币设定:</name>
+		<id>42</id>
+		<val>免费玩 </val>
+	</button>
+	
+	<button>
+		<type>2</type>
+		<name>退出模式:</name>
+		<id>43</id>
+		<data1>菜单退出 </data1>
+		<data2>启动键+投币 </data2>
+	</button>
+	
+	<button>
+		<type>2</type>
+		<name>暂停菜单:</name>
+		<id>44</id>
+		<data2>关闭 </data2>
+		<data1>开启 </data1>
+		<val>
+			<definition>开启</definition>
+			<definition>关闭</definition>
+		</val>
+	</button>
+	
+	<button>
+		<type>2</type>
+		<name>自动退出:</name>
+		<id>45</id>
+		<data2>关闭 </data2>
+		<data1>开启 </data1>
+		<val>
+			<definition>开启</definition>
+			<definition>关闭</definition>
+		</val>
+	</button>
+	
+	<button>
+		<type>2</type>
+		<name>选择模式:</name>
+		<id>46</id>
+		<data2>仅有币时允许 </data2>
+		<data1>一直允许 </data1>
+		
+		<val>
+			<definition>一直允许</definition>
+			<definition>仅有币时允许</definition>
+		</val>
+	</button>
+	
+	<button>
+		<type>2</type>
+		<name>画质加强:</name>
+		<id>47</id>
+		<data1>标清 </data1>
+		<data2>高清 </data2>
+		<data3>超级 </data3>
+		<val>
+			<definition>标清</definition>
+			<definition>高清</definition>
+			<definition>超级</definition>
+		</val>
+	</button>
+	
+	<button>
+		<type>2</type>
+		<name>计时模式:</name>
+		<id>48</id>
+		<data1>仅家用游戏计时 </data1>
+		<val>
+			<definition>仅家用游戏计时</definition>
+		</val>
+	</button>
+	
+	<button>
+		<type>3</type>
+		<name>游戏时间:</name>
+		<id>49</id>
+		<unit>分钟</unit>//后缀单位
+	</button>
+	
+	<button>
+		<type>4</type>
+		<name>手柄设定:</name>
+		<id>50</id>
+	</button>
+</sysbutton> 
